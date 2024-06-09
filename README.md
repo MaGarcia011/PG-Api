@@ -12,3 +12,11 @@ Para ejecutar este proyecto, necesitas tener instalados los siguientes paquetes 
 <PackageReference Include="Microsoft.EntityFrameworkCore" Version="8.0.6" />
 <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="8.0.6" />
 <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="8.0.6" />
+```
+Se necesita tener uns instancia de SqlServer de manera local.
+
+Se necesita tener PostMan para hacer peticiones HTTP
+
+## Video con explicación 
+
+https://drive.google.com/drive/folders/1LarmVKP3s1yHRRrNYJDmtePuJnc-TRkB?usp=sharing
